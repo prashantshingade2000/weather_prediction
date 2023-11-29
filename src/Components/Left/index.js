@@ -1,7 +1,7 @@
 import React from 'react';
 import dayjs from "dayjs";
 import { UseWeatherAppContext } from '../../Context/Context';
-import Cloud from '../../Assets/cloud.jpg'
+// import Cloud from '../../Assets/cloud.jpg'
 const LeftComponents = () => {
     const WEEKDAYS = [
         "Sunday",
