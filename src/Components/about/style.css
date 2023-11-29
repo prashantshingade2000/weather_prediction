@@ -1,0 +1,93 @@
+.about {
+    width: 100vw;
+    display: flex;
+}
+
+.about-main {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    background: rgb(170, 167, 167);
+    height: 106vh;
+}
+
+.prashant .sushant {
+    display: flex;
+    padding-top: 2%;
+}
+
+.left-data {
+    position: absolute;
+    left: 22rem;
+    width: 40%;
+}
+
+.left-data h1 {
+    text-align: center;
+}
+
+.left-data p {
+    line-height: 25px;
+}
+
+.right-data {
+    width: 18%;
+    position: absolute;
+    right: 2rem;
+}
+
+.right-data img {
+    width: 100%;
+    padding-top: 1rem;
+    border-radius: 10px;
+    border-radius: 25px;
+}
+
+.right-sushant-data {
+    position: absolute;
+    right: 2rem;
+    width: 40%;
+    bottom: 111px;
+}
+
+.left-sushant-data {
+    left: 22rem;
+    position: absolute;
+    bottom: 2rem;
+}
+
+.left-sushant-data img {
+    width: 50%;
+    border-radius: 10px;
+    border-radius: 25px;
+}
+
+.right-sushant-data p {
+    line-height: 25px;
+}
+
+.right-sushant-data h1 {
+    text-align: center;
+}
+
+.icons {
+    display: flex;
+    gap: 15px;
+    position: absolute;
+}
+
+.icons1 {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    position: absolute;
+    top: 6rem;
+    left: 1rem;
+}
+
+.i-data {
+    color: #000000;
+    text-decoration: none;
+    font-size: 1.2rem;
+    display: flex;
+}

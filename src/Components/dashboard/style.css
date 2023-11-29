@@ -1,0 +1,42 @@
+.home {
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.home h1 {
+    font-size: 2.5rem;
+    color: #fff;
+}
+
+
+.home .tophr {
+    border-left: 1px solid #fff;
+    height: 55%;
+    background-color: #fff;
+}
+
+.home .bottomhr {
+    border-left: 1px solid #fff;
+    height: 55vh;
+
+}
+
+.botto1mhr {
+    border-left: 1px solid #fff;
+    height: 100vh;
+    background-color: #fff;
+}
+
+
+
+.home .line {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    border-left: 1px solid #ffffff;
+    height: 100vh;
+}
